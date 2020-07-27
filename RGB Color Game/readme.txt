@@ -1,6 +1,6 @@
  ****************************** RGB Color Guessing Game ********************
 
-This game is created usign :
+This game is created using :
 html
 CSS
 Bootstrap
